@@ -1,0 +1,142 @@
+[
+    {
+      "id": 1,
+      "nombre": "Medallón Filete Res",
+      "imagen": "imgs\\res\\medallonFileteRes.webp",
+      "caracteristicas": "Filete por kilo",
+      "precio": 945,
+      "categoria": "res",
+      "stock": 15
+    },
+    {
+        "id": 2,
+        "nombre": "arrachera",
+        "imagen": "imgs\\res\\Arrachera.webp",
+        "caracteristicas": "Arrachera de res marinada SuKarne 600 g",
+        "precio": 189,
+        "categoria": "res",
+        "stock": 20
+      },
+      {
+        "id": 3,
+        "nombre": "Costillas",
+        "imagen": "imgs\\res\\costillas.webp",
+        "caracteristicas": "Costilla para asar por kilo",
+        "precio": 118,
+        "categoria": "res",
+        "stock": 5
+      },
+      {
+        "id": 4,
+        "nombre": "albondigas",
+        "imagen": "imgs\\res\\albondigas.webp",
+        "caracteristicas": "Albóndigas Practi Rico 470 g con 12 pzas",
+        "precio": 89,
+        "categoria": "res",
+        "stock": 10
+      },
+      {
+        "id": 5,
+        "nombre": "Bistec de res",
+        "imagen": "imgs\\res\\bistec.webp",
+        "caracteristicas": "Bistec de res Marketside marinado 500 g",
+        "precio": 124,
+        "categoria": "res",
+        "stock": 25
+      },
+      {
+        "id": 6,
+        "nombre": "Filete tilapia",
+        "imagen": "imgs\\mariscos\\tilapia.webp",
+        "caracteristicas": "Filete de Tilapia por kilo",
+        "precio": 119,
+        "categoria": "mariscos",
+        "stock": 20
+      },
+      {
+        "id": 7,
+        "nombre": "Filete salmon chileno",
+        "imagen": "imgs\\mariscos\\salmon.webp",
+        "caracteristicas": "Filete de salmón Chileno con piel por kg",
+        "precio": 309,
+        "categoria": "mariscos",
+        "stock": 20
+      },
+      {
+        "id": 8,
+        "nombre": "Medallon Atún",
+        "imagen": "imgs\\mariscos\\atun.webp",
+        "caracteristicas": "Medallones de atún Dolores Premium aleta amarilla 4 pzas",
+        "precio": 249,
+        "categoria": "mariscos",
+        "stock": 20
+      },
+      {
+        "id": 9,
+        "nombre": "Fish Stick",
+        "imagen": "imgs\\mariscos\\fishstick.webp",
+        "caracteristicas": "Pescado Trident filetes empanizados",
+        "precio": 159,
+        "categoria": "mariscos",
+        "stock": 20
+      },
+      {
+        "id": 10,
+        "nombre": "Barritas de Pescado",
+        "imagen": "imgs\\mariscos\\barritas.webp",
+        "caracteristicas": "Barritas de pescado Marketside empanizadas 500 g",
+        "precio": 59,
+        "categoria": "mariscos",
+        "stock": 20
+      },
+      {
+        "id": 11,
+        "nombre": "Nuggets de pollo",
+        "imagen": "imgs\\pollo\\nuggets.webp",
+        "caracteristicas": "Nuggets de pollo Del Día empanizados 500 g",
+        "precio": 59,
+        "categoria": "pollo",
+        "stock": 15
+      },
+
+      {
+        "id": 12,
+        "nombre": "Pechugas de pollo",
+        "imagen": "imgs\\pollo\\pechugas.webp",
+        "caracteristicas": "Pechugas de pollo Del Día rellenas de jamón y queso 490 g",
+        "precio": 74,
+        "categoria": "pollo",
+        "stock": 30
+      },
+
+      {
+        "id": 13,
+        "nombre": "Pechuga de Pollo Sin hueso",
+        "imagen": "imgs\\pollo\\pechugaFresca.webp",
+        "caracteristicas": "Pechuga de Pollo Sin hueso fresca 800 g aprox",
+        "precio": 149,
+        "categoria": "pollo",
+        "stock": 20
+      },
+      
+      {
+        "id": 14,
+        "nombre": "Pierna de Pollo",
+        "imagen": "imgs\\pollo\\pierna.webp",
+        "caracteristicas": "Pierna de Pollo 700 g aproxl",
+        "precio": 84,
+        "categoria": "pollo",
+        "stock": 10
+      },
+
+      {
+        "id": 15,
+        "nombre": "Galantina de pavo",
+        "imagen": "imgs\\pollo\\galantina.webp",
+        "caracteristicas": "Galantina de pavo Tangamanga por kilo",
+        "precio": 312,
+        "categoria": "pollo",
+        "stock": 5
+      }
+  ]
+  

@@ -1,0 +1,22 @@
+.hero-sec .res{
+    width: 100%;
+    height: calc(100vh - 120px);
+    background-image: linear-gradient(180deg,#00000021 0%, #0000008c 100%), url('/imgs/index-banners/carnes-res.webp');
+    background-size: cover;
+    clip-path: polygon(0 0, 100% 0, 100% 80%, 50% 95%, 0 80%);
+    z-index: -19;
+    background-size: cover;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+}
+.hero-sec .banner-titulo{
+    margin-top: 5px;
+    margin-bottom: 400px;
+    text-align: center;
+    color: #ffff;
+    text-transform: capitalize;
+    font-size: 50px;
+    font-weight: 500;
+    font-family: 'Titillium Web';
+}
